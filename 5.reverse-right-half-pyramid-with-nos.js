@@ -1,4 +1,4 @@
-let n = 6 
+let n = 6  // n might be anything
 
 for(let i =0; i<n ; i++){
     let row = " ";
